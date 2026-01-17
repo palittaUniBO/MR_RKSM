@@ -3,7 +3,7 @@ Version: 1
 
 Copyright by Hussam Al Daas (RAL) and Davide Palitta (University of Bologna).
 
-The software is licensed under GPLv3 or later. See LICENSE for details.
+The software is licensed under BSD 2-Clause License or later. See LICENSE for details.
 
 This software package includes the minimal residual rational Krylov subspace method for sequences of shifted linear systems developed and analysed in the manuscript
 
